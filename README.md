@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, eu sou Bruno Voltolini Marchiori</h1>
-<h3 align="center">Sou um análista e desenvolvedor de sistemas apaixonado por análise de Dados, análise de testes, banco de dados e em programação!</h3>
+<h1 align="center">Olá 👋, sou Bruno Voltolini Marchiori</h1>
+<h3 align="center">Um análista e desenvolvedor de sistemas que é apaixonado por análise de Dados, análise de testes, banco de dados e em programação!</h3>
 
 - 🌱 Atualmente estou aprendendo: **Python, Pytest Library, Power Bi, SQL, PLSQl, Java script, Oracle.**
 
