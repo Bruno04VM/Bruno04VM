@@ -3,6 +3,7 @@
 
 🌱 Currently, I'm learning: **Node.js, Python, Pytest Library, Power Bi, SQL, PL/SQL, JavaScript, Oracle.**
 
+
 💬 Ask me about: **Programming, Databases, English.**
 
 📫 How to reach me: **linkedin.com/in/brunomarchiori**
