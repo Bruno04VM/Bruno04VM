@@ -1,11 +1,10 @@
-<h1 align="center">Olá 👋, sou Bruno Voltolini Marchiori</h1>
-<h3 align="center">Um análista e desenvolvedor de sistemas que é apaixonado por análise de Dados, análise de testes, banco de dados e em programação!</h3>
+<h1 align="center">Hello 👋, I'm Bruno Voltolini Marchiori</h1>
+<h3 align="center">A systems analyst and developer who is passionate about Data Analysis, Test Analysis, Databases, and Programming!</h3>
+🌱 Currently, I'm learning: Python, Pytest Library, Power Bi, SQL, PL/SQL, JavaScript, Oracle.**
 
-- 🌱 Atualmente estou aprendendo: **Python, Pytest Library, Power Bi, SQL, PLSQl, Java script, Oracle.**
+💬 Ask me about: **Programming, Databases, English.**
 
-- 💬 Pergunte-me sobre: **Programação, Banco de dados, Inglês.**
-
-- 📫 Como me encontrar: **linkedin.com/in/brunomarchiori**
+📫 How to reach me: **linkedin.com/in/brunomarchiori**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
