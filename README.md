@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, I'm Bruno Voltolini Marchiori</h1>
 <h3 align="center">A systems analyst and developer who is passionate about Data Analysis, Test Analysis, Databases, and Programming!</h3>
+
 🌱 Currently, I'm learning: **Node.js, Python, Pytest Library, Power Bi, SQL, PL/SQL, JavaScript, Oracle.**
 
 💬 Ask me about: **Programming, Databases, English.**
